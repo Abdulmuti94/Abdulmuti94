@@ -4,6 +4,7 @@ I am a technical
 
 ## 🌱 I’m currently learning:
 - Working with [Dynamics AL](https://github.com/topics/al-language)
+- Working with [.NET](https://github.com/topics/al-language)
 
 
 ## 📫 Get in touch: 
