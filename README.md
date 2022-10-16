@@ -11,6 +11,6 @@
 
 
 ## 📫 Get in touch: 
-[![E-Mail](https://img.shields.io/badge/--email?label=E-mail&logo=&style=social)](mailto:Abdulmuti@Salkini.me)
-[![Website](https://img.shields.io/badge/--email?label=website&logo=microsoft-outlook&style=social)](https://abdulmuti.salkini.me)
+[![E-Mail](https://img.shields.io/badge/--email?label=E-mail&logo=microsoft-outlook&style=social)](mailto:Abdulmuti@Salkini.me)
+[![Website](https://img.shields.io/badge/--email?label=website&logo=&style=social)](https://abdulmuti.salkini.me)
 [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/abdulmuti)
