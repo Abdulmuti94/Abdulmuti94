@@ -27,6 +27,9 @@
 <br />
 <br />
 
+---
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abdulmuti94&show_icons=true&theme=radical)
+
 [website]: https://abdulmuti.salkini.me
 [twitter]: https://twitter.com/codeSTACKr
 [youtube]: https://youtube.com/codeSTACKr
