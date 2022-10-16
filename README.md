@@ -26,3 +26,9 @@
 
 <br />
 <br />
+
+[website]: https://abdulmuti.salkini.me
+[twitter]: https://twitter.com/codeSTACKr
+[youtube]: https://youtube.com/codeSTACKr
+[instagram]: https://instagram.com/codeSTACKr
+[linkedin]: https://linkedin.com/in/abdulmuti
