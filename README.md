@@ -4,9 +4,10 @@
 
 ## 🌱 I'm a Software Engineer; currently doing the following 
 - Working with [Dynamics AL](https://github.com/topics/al-language)
-- Making [Website](https://github.com/topics/al-language)
-- Making [Mobile App](https://github.com/topics/al-language)
-- Making [Desktop App](https://github.com/topics/android)
+- Making [Website](abdulmuti.salkini.me)
+- Making [Mobile App](https://github.com/topics/android)
+- Making [Desktop App](https://github.com/topics/aspnet)
+- Making [API](https://github.com/topics/api)
 - learing everythings 😀
 
 
