@@ -4,9 +4,9 @@
 
 ## 🌱 I'm a Software Engineer; currently doing the following 
 - Working with [Dynamics AL](https://github.com/topics/al-language)
-- Working with [.NET](https://github.com/topics/al-language)
-- Working with [Android](https://github.com/topics/al-language)
-- Working with [PHP](https://github.com/topics/android)
+- Making [Website](https://github.com/topics/al-language)
+- Making [Mobile App](https://github.com/topics/al-language)
+- Making [Desktop App](https://github.com/topics/android)
 - learing everythings 😀
 
 
