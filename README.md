@@ -23,7 +23,7 @@
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:6px;" />
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:6px;" />
 <img align="left" alt="C#" width="26px" src="https://cdn.cdnlogo.com/logos/c/27/c.svg" style="padding-right:6px;" />
-<img align="left" alt="PHP" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png" style="padding-right:6px;" />
+<img align="left" alt="PHP" width="26px" src="https://pngimg.com/uploads/php/php_PNG25.png" style="padding-right:6px;" />
 <img align="left" alt="Visual Studio" width="26px" src="https://visualstudio.microsoft.com/wp-content/uploads/2021/10/Product-Icon.svg" style="padding-right:6px;" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:6px;" />
 <img align="left" alt="Business Central" width="26px" src="https://i2.wp.com/www.waldo.be/wp-content/uploads/2019/09/Logo.png?fit=144%2C140" style="padding-right:6px;" />
