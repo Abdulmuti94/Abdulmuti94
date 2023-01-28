@@ -40,13 +40,10 @@
 <img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:6px;" />
 <img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:6px;" />
 
-<!--<a href="https://www.lsretail.com" target="_blank" style="padding-right:20px;"> -->
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTznyId91_lcXuhgsI4AjKqtFSCkCw_Q9z-5w&usqp=CAU" alt="LS Retail" width="25" height="25" style="padding-right:6px;"/>
-<!--</a>-->
+<img align="left" alt="LS Retail" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTznyId91_lcXuhgsI4AjKqtFSCkCw_Q9z-5w&usqp=CAU" style="padding-right:6px;"/>
 
-<!--<a href="https://www.lsretail.com" target="_blank" > -->
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="25" height="25" style="padding-right:6px;"/>
-<!--</a>-->
+<img align="left" alt="PostMan" width="26px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" style="padding-right:6px;"/>
+
 
 <a href="https://www.manageengine.com/" target="_blank" > 
   <img src="https://www.manageengine.com/images/logo/manageeengine-logo.png" alt="Postman" width="25" height="25" />
