@@ -42,7 +42,8 @@
 <a href="https://www.lsretail.com" target="_blank" rel="noreferrer"> 
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTznyId91_lcXuhgsI4AjKqtFSCkCw_Q9z-5w&usqp=CAU" alt="LS Retail" width="25" height="25" />
 </a>
-<a href="https://www.lsretail.com" target="_blank" rel="noreferrer"> 
+
+<a href="https://www.lsretail.com" target="_blank" style="padding-right:6px;"> 
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTznyId91_lcXuhgsI4AjKqtFSCkCw_Q9z-5w&usqp=CAU" alt="LS Retail" width="25" height="25" />
 </a>
 <br />
