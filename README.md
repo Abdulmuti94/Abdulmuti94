@@ -46,7 +46,7 @@
 
 
 <a href="https://www.manageengine.com/" target="_blank" > 
-  <img src="https://www.manageengine.com/images/logo/manageeengine-logo.png" alt="Postman" width="25" height="25" />
+  <img align="left" alt="manageengine" width="26px" src="https://www.manageengine.com/images/logo/manageeengine-logo.png"/>
 </a>
 <br />
 <br />
