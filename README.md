@@ -36,7 +36,7 @@
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:6px;" />
 <img align="left" alt="Business Central" width="26px" src="https://i2.wp.com/www.waldo.be/wp-content/uploads/2019/09/Logo.png?fit=144%2C140" style="padding-right:6px;" />
 <a href="https://www.lsretail.com" target="_blank" rel="noreferrer"> 
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTznyId91_lcXuhgsI4AjKqtFSCkCw_Q9z-5w&usqp=CAU" alt="LS Retail" width="40" height="40" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTznyId91_lcXuhgsI4AjKqtFSCkCw_Q9z-5w&usqp=CAU" alt="LS Retail" width="45" height="25" />
 </a>
 
 <img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:6px;" />
