@@ -20,8 +20,8 @@
 
 ### Languages and Tools:
 <!--
-<a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40" />
+<a href="https://www.python.org" target="_blank" > 
+  <img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
 </a>
 -->
     
@@ -44,13 +44,16 @@
 
 <img align="left" alt="PostMan" width="26px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" style="padding-right:6px;"/>
 
+<a href="https://www.python.org" target="_blank" > 
+  <img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
+</a>
 
 <a href="https://www.manageengine.com/" target="_blank" > 
   <img align="left" alt="manageengine" width="26px" src="https://www.manageengine.com/images/logo/manageeengine-logo.png"/>
 </a>
 
-<a href="https://www.python.org" target="_blank" > 
-  <img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
+<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" > 
+  <img align="left" alt="mssql" width="26px" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg"/>
 </a>
 <br />
 <br />
