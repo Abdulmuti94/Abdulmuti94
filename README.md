@@ -7,7 +7,6 @@
 
 <!-- sdsd-->
 
-<br />
 ## 🌱 I'm a Software Engineer; currently doing the following 
 - Working with [Dynamics AL](https://github.com/topics/al-language)
 - Making [Website](abdulmuti.salkini.me)
