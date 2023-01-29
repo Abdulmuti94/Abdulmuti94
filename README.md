@@ -2,8 +2,12 @@
 <h1 align="center">Hi 👋, Welcome to my profile</h1>
 
 <div class="headline" align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Wallpoet&color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=I'm+Fullstack+Developer;DevOps+Engineer;Solution+Architect;Penetration+Tester;Problem+Solver;Freelancer;Open-Source+Contributor" alt="Headline" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Wallpoet&color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50
+            &lines=I'm+Fullstack+Developer;DevOps+Engineer;Solution+Architect;Penetration+Tester;Problem+Solver;Freelancer;Open-Source+Contributor" 
+  alt="Headline" />
 </div>
+
+<!-- -->
 
 <br />
 ## 🌱 I'm a Software Engineer; currently doing the following 
