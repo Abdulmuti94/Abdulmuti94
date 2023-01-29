@@ -69,9 +69,10 @@
 
 <details>
   <summary>:zap: Top Langs</summary>
+ 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulmuti94&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulmuti94)](https://github.com/anuraghazra/github-readme-stats)
 </details>
 
 [website]: https://abdulmuti.salkini.me
