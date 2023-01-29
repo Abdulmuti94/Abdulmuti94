@@ -1,5 +1,8 @@
 ### 👋 Hi, Welcome to my profile
 
+<h1 align="center">Hi 👋, Welcome to my profile</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
  
 
 ## 🌱 I'm a Software Engineer; currently doing the following 
@@ -67,14 +70,14 @@
 
 </details>
 
+<!--
 <details>
   <summary>:zap: Top Langs</summary>
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulmuti94&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulmuti94)](https://github.com/anuraghazra/github-readme-stats)
 </details>
-
+-->
 [website]: https://abdulmuti.salkini.me
 [twitter]: https://twitter.com/codeSTACKr
 [youtube]: https://youtube.com/codeSTACKr
