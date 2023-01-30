@@ -22,6 +22,11 @@
 [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/abdulmuti)
 [![Instagram](https://img.shields.io/badge/--email?label=Instagram&logo=Instagram&style=social)](https://www.instagram.com/Abdulmuti.94)
 
+[website]: https://abdulmuti.salkini.me
+[twitter]: https://twitter.com/codeSTACKr
+[youtube]: https://youtube.com/codeSTACKr
+[instagram]: https://instagram.com/codeSTACKr
+[linkedin]: https://linkedin.com/in/abdulmuti
 
 ### Languages and Tools:
 <!--
