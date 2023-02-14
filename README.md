@@ -85,6 +85,10 @@
 -->
 </details>
 
+![snake gif](https://github.com/Abdulmuti94/Abdulmuti94/blob/output/github-contribution-grid-snake.svg)
+
+
+
 [website]: https://abdulmuti.salkini.me
 [twitter]: https://twitter.com/codeSTACKr
 [youtube]: https://youtube.com/codeSTACKr
