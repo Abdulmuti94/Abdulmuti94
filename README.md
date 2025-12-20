@@ -1,22 +1,43 @@
 <h1 align="center">Hi 👋, Welcome to my profile</h1>
+<h2 align="center">Abdulmuti Salkini - Fullstack Developer & DevOps Engineer</h2>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Wallpoet&color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=I'm+Fullstack+Developer;DevOps+Engineer;Solution+Architect;ERP+Specialist;Problem+Solver;Freelancer;Open-Source+Contributor" alt="Headline" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Wallpoet&color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=I'm+Fullstack+Developer;DevOps+Engineer;Solution+Architect;ERP+Specialist;Problem+Solver;Freelancer;Open-Source+Contributor" alt="Abdulmuti Salkini - Fullstack Developer, DevOps Engineer, Solution Architect" />
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 About Abdulmuti Salkini
 
-I'm a passionate **Software Engineer** with expertise in full-stack development, DevOps, and enterprise solutions. I love building scalable applications and solving complex problems.
+I'm **Abdulmuti Salkini**, a passionate **Software Engineer** with expertise in full-stack development, DevOps, and enterprise solutions. Welcome to my GitHub profile! I love building scalable applications and solving complex problems.
+
+**Abdulmuti Salkini** specializes in:
+- Full-stack web development (Frontend & Backend)
+- Microsoft Dynamics 365 Business Central (AL Language)
+- Enterprise Resource Planning (ERP) solutions
+- DevOps and CI/CD pipelines
+- API design and development
 
 ### 🌱 Currently Working On:
 - 🔷 Developing solutions with [Dynamics AL](https://github.com/topics/al-language)
-- 🌐 Building [Websites](https://abdulmuti.salkini.me)
+- 🌐 Building [Websites](https://abdulmuti.salkini.me) - Check out my portfolio at abdulmuti.salkini.me
 - 📱 Creating [Mobile Applications](https://github.com/topics/android)
 - 💻 Developing [Desktop Applications](https://github.com/topics/aspnet)
 - 🔌 Designing and implementing [RESTful APIs](https://github.com/topics/api)
 - 📚 Learning new technologies every day 😀
+
+---
+
+## 🔍 About Abdulmuti Salkini on GitHub
+
+**Abdulmuti Salkini** (GitHub: [@Abdulmuti94](https://github.com/Abdulmuti94)) is a professional Software Engineer and Solution Architect with extensive experience in enterprise software development. This GitHub profile showcases projects, contributions, and expertise in:
+
+- **Microsoft Dynamics 365 Business Central** development using AL Language
+- **Full-stack web development** with modern frameworks
+- **Enterprise solutions** and ERP implementations
+- **DevOps practices** and automation
+
+Visit [abdulmuti.salkini.me](https://abdulmuti.salkini.me) to learn more about Abdulmuti Salkini's work and services.
 
 ---
 
@@ -81,18 +102,26 @@ I'm a passionate **Software Engineer** with expertise in full-stack development,
   <br />
   
   <div align="center">
-    <img alt="Abdulmuti94's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Abdulmuti94&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25&count_private=true" />
+    <img alt="Abdulmuti Salkini GitHub Stats - Abdulmuti94's GitHub Statistics and Contributions" src="https://github-readme-stats.vercel.app/api?username=Abdulmuti94&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25&count_private=true" />
   </div>
   
   <br />
   
   <div align="center">
-    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulmuti94&langs_count=8&layout=compact&hide_border=false&title_color=ff652f&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+    <img alt="Abdulmuti Salkini Top Programming Languages - GitHub Abdulmuti Programming Skills" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulmuti94&langs_count=8&layout=compact&hide_border=false&title_color=ff652f&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
   </div>
 </details>
 
 ---
 
 <div align="center">
-  <img src="https://github.com/Abdulmuti94/Abdulmuti94/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://github.com/Abdulmuti94/Abdulmuti94/blob/output/github-contribution-grid-snake.svg" alt="Abdulmuti Salkini GitHub Contribution Activity - Abdulmuti94 Daily Contributions" />
+</div>
+
+---
+
+<div align="center">
+  <p><strong>Abdulmuti Salkini</strong> | GitHub Profile | Fullstack Developer | DevOps Engineer</p>
+  <p>Find me on GitHub: <a href="https://github.com/Abdulmuti94">@Abdulmuti94</a> | Website: <a href="https://abdulmuti.salkini.me">abdulmuti.salkini.me</a></p>
+  <p><em>Keywords: GitHub Abdulmuti, GitHub Salkini, Abdulmuti Salkini GitHub, Fullstack Developer, DevOps Engineer, Dynamics AL Developer, ERP Specialist</em></p>
 </div>
