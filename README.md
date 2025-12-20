@@ -1,97 +1,98 @@
-
 <h1 align="center">Hi 👋, Welcome to my profile</h1>
 
-<div class="headline" align="center">
+<div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Wallpoet&color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=I'm+Fullstack+Developer;DevOps+Engineer;Solution+Architect;ERP+Specialist;Problem+Solver;Freelancer;Open-Source+Contributor" alt="Headline" />
 </div>
 
-<!-- sdsd-->
+---
 
-## 🌱 I'm a Software Engineer; currently doing the following 
-- Working with [Dynamics AL](https://github.com/topics/al-language)
-- Making [Website](abdulmuti.salkini.me)
-- Making [Mobile App](https://github.com/topics/android)
-- Making [Desktop App](https://github.com/topics/aspnet)
-- Making [API](https://github.com/topics/api)
-- learing everythings 😀
+## 👨‍💻 About Me
 
+I'm a passionate **Software Engineer** with expertise in full-stack development, DevOps, and enterprise solutions. I love building scalable applications and solving complex problems.
 
-## 📫 Get in touch: 
-[![E-Mail](https://img.shields.io/badge/--email?label=E-mail&logo=microsoft-outlook&style=social)](mailto:Abdulmuti@Salkini.me)
-[![Website](https://img.shields.io/badge/--email?label=website&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACMAAAAjCAYAAAAe2bNZAAAE7klEQVRYhb2YXWgcVRTHf7s7m91N1uajSevFr0JBEYVGMOiDPlQELSIUUfogaNFCGUEULH68VKigFV/Uahc/nwyIYBWhBhGEolJtLaE2VGn1RR/GmhqTJlm72eyuzLlnZmcymzU1H4fO5s7cO/f8z8f/nDtN8doYwCPADqAOVIAUqyMZoAB8DpSAclSLD+YVyuzhYvhk9aShVx7okicOHrVg2mGOPVzQRWslc0BafORH5J0mmFkFcpk6MRWxAn2pHvHackH7e/nGzwoYNw4m2LxLlD0KsmCTxrRf70u6Khh/l1CyNKkCbzNNUQ3sjr7lhKOa3Lmc52YZb8SlTD9TwAZcAT0uHnQp8gce+y4ZiqGfOkUZ2wjMRafT4chOfibJVZDxB2R1nI7wICtzxxKKliZzCwiSit88P9YQMm8QhaPqrYaqratrc7q+os/TlwShKRUaDHJOjRvgZzyuD2adENuEQLtJYEQTdbHx/5EoOex4KrpLPGfWUiyYehxMYOn6SGBWS4IycS7U09PaMzYLNpFuWQKvU5p/u8wg1UkxGUnbWO41wVj1OTz+Dp8Z7pXaUmWbWNIhW+7F44WYGsM6YEh9W10AwufnX8AJqStxM2N3DouJ4T7qfMykciiwYx37MBg8HguBNJiKV4wFkg5LwkBiLiKtKWrk1SYQ3yOdGudJsd3FcKuu3i29d6LNdT4sbzcmdP0nGLhNXq5ohVnPEbp5nz6dnZVfV+++ELBdba5iGIOfEpoisliYrgyp3iG/I8Cn5KTLBkww8uvxI4YtZHlIgxEtEg3dYUJ7WtsCshiYI7KF77d/JAX34/CM8IywHo8opGuocVLOQ63OQkGBK7CXVPucaQ3G4zcM75Jnl+TDuADrFY+kw951SldvFyAXErskNXVwbeJ5RFrnjOEgZXaJV4KNMmGlsEW8wZcY7gAOCXm7F7nWaWmzbDqT0NXWM4YdzOGKQl95XxiWk8yzhRkNnc+qXlw8HsAwSCcPR5roKf3bUD/6OfORpnLz+Gk52gYMfMi0jnoFyH6QQlfFcDs9vM48gxKaKvcLkCqjoReDlC2wW09xdwl0jzKGjBiYDmMy0T5MNa0JWQHyAx7PCRAkl74WVgT22EP8dlk/q1c5Rv06FUaochTDV8DdpHhRvG27UimqupVnrFhKtzpejmr8A8kIuGzsiVVU462wuWTZShdbZV2W94DDeHwS3ah5uBoQaH5DfFJyJiOb3oDH6ZhqI96sRY5ZV2gGDWp2+YH6VULQYEa60sJu1akr85wVAsAwcDoJxuOMsuQXoXgrsYDuFC95QvzWYniCWV4V2gdVeDpS+hxtowU7boLZKFYOadquxKkmJ1SucZY/1Yv9HAcup8JVorMc6dtd0Zy5KC8cX9HDVUYsPkyOe0R5lSGy3EKOnWRwhYFBhXb8f53aEKcSWy1fHAn/1aEOa/BOpuQzyHK5qDmU4WWHPCX6cIWeK/2JaxlWIsdBUWyT3g0/91P6JQuP4/GGI4ckwyFykpB+Os0vQU2rlrhw3vfL93gMY9hMgaek/kzqbF4r+bhU+QMYBlI8O5bYacXFMESVY3LIQtnTwzAzPCjsStu2k6zAqyMnJGQZ3dv+d8ibFClJztRtPNYGjCfqnhYQtlqX8DgKvCRgbA/E0fPaWsgBuiQfN0tSW72/k6KTPNuAb/4F67RXfeyd2DIAAAAASUVORK5CYII=&style=social)](https://abdulmuti.salkini.me)
-[![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/abdulmuti)
-[![Instagram](https://img.shields.io/badge/--email?label=Instagram&logo=Instagram&style=social)](https://www.instagram.com/Abdulmuti.94)
+### 🌱 Currently Working On:
+- 🔷 Developing solutions with [Dynamics AL](https://github.com/topics/al-language)
+- 🌐 Building [Websites](https://abdulmuti.salkini.me)
+- 📱 Creating [Mobile Applications](https://github.com/topics/android)
+- 💻 Developing [Desktop Applications](https://github.com/topics/aspnet)
+- 🔌 Designing and implementing [RESTful APIs](https://github.com/topics/api)
+- 📚 Learning new technologies every day 😀
 
-[website]: https://abdulmuti.salkini.me
-[twitter]: https://twitter.com/codeSTACKr
-[youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/abdulmuti
+---
 
-### Languages and Tools:
-<!--
-<a href="https://www.python.org" target="_blank" > 
-  <img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
-</a>
--->
-    
-<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:6px;" />
-<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:6px;" />
-<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:6px;" />
-<img align="left" alt="C#" width="26px" src="https://cdn.cdnlogo.com/logos/c/27/c.svg" style="padding-right:6px;" />
-<img align="left" alt="PHP" width="26px" src="https://pngimg.com/uploads/php/php_PNG25.png" style="padding-right:6px;" />
-<img align="left" alt=".net" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aspnet/aspnet.png" style="padding-right:6px;" />
-<img align="left" alt="laravel" width="26px" src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/laravel/laravel.png" style="padding-right:6px;" />
-<img align="left" alt="Visual Studio" width="26px" src="https://visualstudio.microsoft.com/wp-content/uploads/2021/10/Product-Icon.svg" style="padding-right:6px;" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:6px;" />
-<img align="left" alt="Business Central" width="26px" src="https://i2.wp.com/www.waldo.be/wp-content/uploads/2019/09/Logo.png?fit=144%2C140" style="padding-right:6px;" />
+## 📫 Get in Touch
 
+[![E-Mail](https://img.shields.io/badge/Email-Abdulmuti@Salkini.me-D14836?logo=microsoft-outlook&logoColor=white&style=for-the-badge)](mailto:Abdulmuti@Salkini.me)
+[![Website](https://img.shields.io/badge/Website-abdulmuti.salkini.me-4285F4?logo=google-chrome&logoColor=white&style=for-the-badge)](https://abdulmuti.salkini.me)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdulmuti-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/abdulmuti)
+[![Instagram](https://img.shields.io/badge/Instagram-Abdulmuti.94-E4405F?logo=instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/Abdulmuti.94)
 
-<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:6px;" />
-<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:6px;" />
+---
 
-<img align="left" alt="LS Retail" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTznyId91_lcXuhgsI4AjKqtFSCkCw_Q9z-5w&usqp=CAU" style="padding-right:6px;"/>
+## 🛠️ Languages and Tools
 
-<img align="left" alt="PostMan" width="26px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" style="padding-right:6px;"/>
+### Frontend Development
+<img align="left" alt="HTML5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
+<img align="left" alt="CSS3" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
+<img align="left" alt="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
+<img align="left" alt="React" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
+<br />
+<br />
 
-<a href="https://www.python.org" target="_blank" > 
-  <img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
-</a>
+### Backend Development
+<img align="left" alt="C#" width="30px" src="https://cdn.cdnlogo.com/logos/c/27/c.svg" style="padding-right:10px;" />
+<img align="left" alt="PHP" width="30px" src="https://pngimg.com/uploads/php/php_PNG25.png" style="padding-right:10px;" />
+<img align="left" alt="Python" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Node.js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
+<br />
+<br />
 
-<a href="https://www.manageengine.com/" target="_blank" > 
-  <img align="left" alt="manageengine" width="26px" src="https://www.manageengine.com/images/logo/manageeengine-logo.png"/>
-</a>
+### Frameworks & Libraries
+<img align="left" alt=".NET" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aspnet/aspnet.png" style="padding-right:10px;" />
+<img align="left" alt="Laravel" width="30px" src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/laravel/laravel.png" style="padding-right:10px;" />
+<br />
+<br />
 
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" > 
-  <img align="left" alt="mssql" width="26px" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg"/>
-</a>
+### Databases
+<img align="left" alt="SQL Server" width="30px" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" style="padding-right:10px;" />
+<br />
+<br />
+
+### Development Tools
+<img align="left" alt="Visual Studio" width="30px" src="https://visualstudio.microsoft.com/wp-content/uploads/2021/10/Product-Icon.svg" style="padding-right:10px;" />
+<img align="left" alt="Visual Studio Code" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Postman" width="30px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" style="padding-right:10px;" />
+<br />
+<br />
+
+### Enterprise Solutions
+<img align="left" alt="Business Central" width="30px" src="https://i2.wp.com/www.waldo.be/wp-content/uploads/2019/09/Logo.png?fit=144%2C140" style="padding-right:10px;" />
+<img align="left" alt="LS Retail" width="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTznyId91_lcXuhgsI4AjKqtFSCkCw_Q9z-5w&usqp=CAU" style="padding-right:10px;" />
+<img align="left" alt="ManageEngine" width="30px" src="https://www.manageengine.com/images/logo/manageeengine-logo.png" style="padding-right:10px;" />
 <br />
 <br />
 
 ---
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Abdulmuti94&&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25&count_private=true" />
-
-</details>
-
+## 📊 GitHub Stats
 
 <details>
-  <summary>:zap: Top Langs</summary>
- <!--
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulmuti94&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
--->
+  <summary>📈 Click to view GitHub Statistics</summary>
+  <br />
+  
+  <div align="center">
+    <img alt="Abdulmuti94's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Abdulmuti94&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25&count_private=true" />
+  </div>
+  
+  <br />
+  
+  <div align="center">
+    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulmuti94&langs_count=8&layout=compact&hide_border=false&title_color=ff652f&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+  </div>
 </details>
 
- <!--
-![snake gif](https://github.com/Abdulmuti94/Abdulmuti94/blob/output/github-contribution-grid-snake.svg)
--->
+---
 
-
-[website]: https://abdulmuti.salkini.me
-[twitter]: https://twitter.com/codeSTACKr
-[youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/abdulmuti
+<div align="center">
+  <img src="https://github.com/Abdulmuti94/Abdulmuti94/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
