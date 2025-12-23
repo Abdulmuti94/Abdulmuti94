@@ -91,7 +91,7 @@ Visit [abdulmuti.salkini.me](https://abdulmuti.salkini.me) to learn more about A
 
 ### Enterprise Solutions
 <img align="left" alt="Dynamics 365 Business Central" width="30px" src="https://i2.wp.com/www.waldo.be/wp-content/uploads/2019/09/Logo.png?fit=144%2C140" style="padding-right:10px;" />
-<img align="left" alt="Dynamics 365 F&O" width="30px" src="https://www.vectorlogo.zone/logos/microsoft_dynamics/microsoft_dynamics-icon.svg" style="padding-right:10px;" />
+<img align="left" alt="Dynamics 365 F&O" width="30px" src="https://plate.libpx.com/prod1-img/5760da67df/f%20en%20o%20logo.png?height=256&signature=a8e10d32b8279a806839a13282eed6be1bb48ce6" style="padding-right:10px;" />
 <img align="left" alt="Odoo" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/odoo/odoo-original.svg" style="padding-right:10px;" />
 <img align="left" alt="LS Retail" width="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTznyId91_lcXuhgsI4AjKqtFSCkCw_Q9z-5w&usqp=CAU" style="padding-right:10px;" />
 <img align="left" alt="CRM" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dynamics365/dynamics365-original.svg" style="padding-right:10px;" />
