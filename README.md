@@ -76,6 +76,10 @@ Visit [abdulmuti.salkini.me](https://abdulmuti.salkini.me) to learn more about A
 
 ### Databases
 <img align="left" alt="SQL Server" width="30px" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" style="padding-right:10px;" />
+<img align="left" alt="SQLite" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" style="padding-right:10px;" />
+<img align="left" alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
+<img align="left" alt="PostgreSQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Supabase" width="30px" src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" style="padding-right:10px;" />
 <br />
 <br />
 
@@ -87,8 +91,11 @@ Visit [abdulmuti.salkini.me](https://abdulmuti.salkini.me) to learn more about A
 <br />
 
 ### Enterprise Solutions
-<img align="left" alt="Business Central" width="30px" src="https://i2.wp.com/www.waldo.be/wp-content/uploads/2019/09/Logo.png?fit=144%2C140" style="padding-right:10px;" />
+<img align="left" alt="Dynamics 365 Business Central" width="30px" src="https://i2.wp.com/www.waldo.be/wp-content/uploads/2019/09/Logo.png?fit=144%2C140" style="padding-right:10px;" />
+<img align="left" alt="Dynamics 365 F&O" width="30px" src="https://www.vectorlogo.zone/logos/microsoft_dynamics/microsoft_dynamics-icon.svg" style="padding-right:10px;" />
+<img align="left" alt="Odoo" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/odoo/odoo-original.svg" style="padding-right:10px;" />
 <img align="left" alt="LS Retail" width="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTznyId91_lcXuhgsI4AjKqtFSCkCw_Q9z-5w&usqp=CAU" style="padding-right:10px;" />
+<img align="left" alt="CRM" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dynamics365/dynamics365-original.svg" style="padding-right:10px;" />
 <img align="left" alt="ManageEngine" width="30px" src="https://www.manageengine.com/images/logo/manageeengine-logo.png" style="padding-right:10px;" />
 <br />
 <br />
