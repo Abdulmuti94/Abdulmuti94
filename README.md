@@ -7,7 +7,7 @@
 
 <div align="center">
   <a href="https://abdulmuti.salkini.me"><img src="https://img.shields.io/badge/Website-abdulmuti.salkini.me-4285F4?logo=google-chrome&logoColor=white&style=flat-square" alt="Website" /></a>
-  <a href="mailto:Abdulmuti@Salkini.me"><img src="https://img.shields.io/badge/Email-Abdulmuti@Salkini.me-D14836?logo=maildotru&logoColor=white&style=flat-square" alt="Email" /></a>
+  <a href="mailto:Abdulmuty.94@hotmail.com"><img src="https://img.shields.io/badge/Email-Abdulmuty.94@hotmail.com-D14836?logo=maildotru&logoColor=white&style=flat-square" alt="Email" /></a>
   <a href="https://www.linkedin.com/in/abdulmuti"><img src="https://img.shields.io/badge/LinkedIn-Abdulmuti-0077B5?logo=linkedin&logoColor=white&style=flat-square" alt="LinkedIn" /></a>
   <a href="https://www.instagram.com/Abdulmuti.94"><img src="https://img.shields.io/badge/Instagram-Abdulmuti.94-E4405F?logo=instagram&logoColor=white&style=flat-square" alt="Instagram" /></a>
   <img src="https://komarev.com/ghpvc/?username=Abdulmuti94&label=Profile%20views&color=6FDA44&style=flat-square" alt="Profile views" />
@@ -24,7 +24,7 @@ I'm a Software Engineer who builds scalable applications and brings **AI into en
 - 🌐 Shipping web, mobile, and desktop apps backed by **RESTful APIs**
 - 🏗️ Designing enterprise / ERP integrations end-to-end
 - 🌱 Currently exploring agentic workflows, **MCP servers**, and evaluation for production LLM apps
-- 📫 Reach me at **Abdulmuti@Salkini.me** · Portfolio → [abdulmuti.salkini.me](https://abdulmuti.salkini.me)
+- 📫 Reach me at **Abdulmuty.94@hotmail.com** · Portfolio → [abdulmuti.salkini.me](https://abdulmuti.salkini.me)
 
 ---
 
