@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Abdulmuti Salkini</h1>
-<h3 align="center">Fullstack Developer · DevOps Engineer · ERP Specialist</h3>
+<h3 align="center">Fullstack Developer · AI Solutions Engineer · DevOps Engineer · ERP Specialist</h3>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6FDA44&center=true&vCenter=true&width=600&lines=Fullstack+Developer;DevOps+Engineer;Solution+Architect;Dynamics+365+%2F+AL+Specialist;Open-Source+Contributor" alt="Roles" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6FDA44&center=true&vCenter=true&width=700&lines=Fullstack+Developer;AI+%26+LLM+Solutions+Architect;Building+Enterprise+AI+Agents;DevOps+Engineer;Dynamics+365+%2F+AL+Specialist;Open-Source+Contributor" alt="Roles" />
 </div>
 
 <div align="center">
@@ -17,13 +17,29 @@
 
 ## 👨‍💻 About Me
 
-I'm a Software Engineer focused on building scalable applications and solving complex business problems. I work across the full stack and bring enterprise systems together with custom software.
+I'm a Software Engineer who builds scalable applications and brings **AI into enterprise systems**. I work across the full stack, from ERP customization to LLM-powered agents, and connect it all with clean APIs and solid DevOps.
 
-- 🔭 Currently building solutions on **Microsoft Dynamics 365 Business Central (AL)**
-- 🌐 Working on web, mobile, and desktop apps, plus **RESTful APIs**
+- 🤖 Building **enterprise AI solutions**: LLM agents, RAG assistants, and copilots that work on real business data
+- 🔭 Extending **Microsoft Dynamics 365 Business Central (AL)** and wiring AI into ERP workflows
+- 🌐 Shipping web, mobile, and desktop apps backed by **RESTful APIs**
 - 🏗️ Designing enterprise / ERP integrations end-to-end
-- 🌱 Always learning something new
+- 🌱 Currently exploring agentic workflows, **MCP servers**, and evaluation for production LLM apps
 - 📫 Reach me at **Abdulmuti@Salkini.me** · Portfolio → [abdulmuti.salkini.me](https://abdulmuti.salkini.me)
+
+---
+
+## 🤖 AI & Enterprise Solutions
+
+I focus on AI that ships to production inside real businesses, not demos.
+
+| Area | What I build |
+|------|--------------|
+| 🧠 **LLM Agents & Copilots** | Assistants that read and act on ERP data: create orders, answer finance questions, draft documents, and hand off to humans when needed |
+| 📚 **RAG & Knowledge Systems** | Retrieval pipelines over company documents, policies, and ERP records with vector search, grounding, and citations |
+| 📄 **Document Intelligence** | Invoice, PO, and contract extraction that flows straight into Business Central / ERP with validation and approval steps |
+| 🔌 **AI ↔ ERP Integration** | MCP servers and REST / OData connectors that expose Dynamics 365 BC, Odoo, and SQL data safely to LLMs |
+| 📊 **Analytics & Forecasting** | Demand forecasting, anomaly detection, and natural-language reporting on top of business data |
+| 🛡️ **Production Readiness** | Evaluation, guardrails, prompt versioning, cost tracking, and observability for LLM apps |
 
 ---
 
@@ -31,23 +47,36 @@ I'm a Software Engineer focused on building scalable applications and solving co
 
 **Languages**
 
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![AL](https://img.shields.io/badge/AL-0078D7?style=for-the-badge&logo=microsoft&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge)
+![AL](https://img.shields.io/badge/AL-0078D7?style=for-the-badge)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
+**AI & LLMs**
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge)
+![Anthropic Claude](https://img.shields.io/badge/Anthropic%20Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Azure OpenAI](https://img.shields.io/badge/Azure%20OpenAI-0078D4?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![MCP](https://img.shields.io/badge/Model%20Context%20Protocol-000000?style=for-the-badge&logo=modelcontextprotocol&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white)
+![pgvector](https://img.shields.io/badge/pgvector-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
 **Frameworks & Runtimes**
 
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 **Databases**
 
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
@@ -55,17 +84,23 @@ I'm a Software Engineer focused on building scalable applications and solving co
 
 **Enterprise & ERP**
 
-![Dynamics 365](https://img.shields.io/badge/Dynamics%20365%20BC-002050?style=for-the-badge&logo=microsoft&logoColor=white)
+![Dynamics 365](https://img.shields.io/badge/Dynamics%20365%20BC-002050?style=for-the-badge)
 ![Odoo](https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white)
-![LS Retail](https://img.shields.io/badge/LS%20Retail-E4002B?style=for-the-badge&logo=data:image/svg+xml;base64,&logoColor=white)
+![LS Retail](https://img.shields.io/badge/LS%20Retail-E4002B?style=for-the-badge)
+
+**Cloud & DevOps**
+
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 **Tools**
 
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
@@ -81,11 +116,11 @@ I'm a Software Engineer focused on building scalable applications and solving co
 </div>
 
 <div align="center">
-  <img src="https://github.com/Abdulmuti94/Abdulmuti94/blob/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" />
+  <img src="https://raw.githubusercontent.com/Abdulmuti94/Abdulmuti94/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" />
 </div>
 
 ---
 
 <div align="center">
-  <sub>⚡ Building reliable software, one commit at a time.</sub>
+  <sub>⚡ Building reliable software and AI that actually ships, one commit at a time.</sub>
 </div>
